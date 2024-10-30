@@ -1,7 +1,8 @@
 Hellow 
 This is a help file
 
-Git new connection
+---Git new connection---
+
 git config --global user.name "user name"
 git config --global user.email "email"
 git add .
