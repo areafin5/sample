@@ -8,7 +8,7 @@ git config --global user.email "email"
 git add .
 git commit -m "initial commit"
 git branch -M <branch-name> 
-git remote add origin <git link>
+git remote add origin <git-link>
 git push -u origin <branch-name>
 
 --add update--
